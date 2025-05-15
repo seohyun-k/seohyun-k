@@ -12,6 +12,7 @@
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="40" align="right"/>
   🛻 <strong>Truck Platooning</strong><br>
   ROS2 + CARLA simulator<br>
   Sensor fusion with <strong>LiDAR & Camera</strong><br>
@@ -74,13 +75,17 @@
 
 <p align="center">
   <a href="mailto:tjgus4470@kookmin.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-<p align="center"><i>"Keep learning. Keep building."</i></p>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=fade&color=gradient&customColorList=18,14,15&height=100&section=header"/>
 </p>
 
+<p align="center"><i>"Keep learning. Keep building."</i></p>
