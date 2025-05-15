@@ -11,19 +11,29 @@
 
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
+<table align="center">
+<tr>
+<td width="70%">
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="150" align="right"/>
-  🛻 <strong>Truck Platooning</strong><br>
-  ROS2 + CARLA simulator<br>
-  Sensor fusion with <strong>LiDAR & Camera</strong><br>
-  Real-time distance keeping, steering control, and UI visualization
+🛻 <strong>Truck Platooning</strong><br>
+ROS2 + CARLA simulator<br>
+Sensor fusion with <strong>LiDAR & Camera</strong><br>
+Real-time distance keeping, steering control, and UI visualization
 </p>
 
 <p align="center">
-  🏎️ <strong>AWS DeepRacer</strong><br>
-  Designing custom reward functions for complex tracks<br>
-  Focused on stable cornering and obstacle avoidance
+🏎️ <strong>AWS DeepRacer</strong><br>
+Designing custom reward functions for complex tracks<br>
+Focused on stable cornering and obstacle avoidance
 </p>
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="150"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,38 +65,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-</p>
-
----
-
-<h3 align="center">🎯 Goals 🎯</h3>
-
-<p align="center">
-  🚀 Build hands-on experience in autonomous vehicle systems<br>
-  👨‍💻 Learn by solving real-world robotics problems<br>
-  🤝 Grow by sharing, collaborating, and staying curious
-</p>
-
----
-
-<h3 align="center">✉️ Contact ✉️</h3>
-<img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/2.png" height="150" align="left"/>
-
-<p align="center">
-  <a href="mailto:tjgus4470@kookmin.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=fade&color=gradient&customColorList=18,14,15&height=100&section=header"/>
-</p>
-
-</p align="center"><i>"Keep learning. Keep building."</i></p>
+  <img src="https://img.shields.io/b
