@@ -72,6 +72,7 @@
 ---
 
 <h3 align="center">✉️ Contact ✉️</h3>
+<img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/2.png" height="150" align="left"/>
 
 <p align="center">
   <a href="mailto:tjgus4470@kookmin.ac.kr">
