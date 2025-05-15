@@ -85,8 +85,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=fade&color=gradient&customColorList=18,14,15&height=100&section=header"/>
+
 </p>
 
 </p align="center"><i>"Keep learning. Keep building."</i></p>
