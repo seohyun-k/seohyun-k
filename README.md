@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="150" align="right"/>
-  🛻 <strong>Truck Platooning</strong><br>
+       🛻 <strong>Truck Platooning</strong><br>
   ROS2 + CARLA simulator<br>
   Sensor fusion with <strong>LiDAR & Camera</strong><br>
   Real-time distance keeping, steering control, and UI visualization
