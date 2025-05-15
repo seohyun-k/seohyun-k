@@ -8,7 +8,10 @@
 <p align="center">🚘 Autonomous Driving · 🎓 Engineering Student · 🧠 Control & Perception</p>
 
 ---
-</h2>
+
+
+
+
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
