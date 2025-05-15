@@ -79,3 +79,6 @@
 </p>
 
 <p align="center"><i>"Keep learning. Keep building."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=10,0,30&height=100&section=footer"/>
+
