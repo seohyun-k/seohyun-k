@@ -9,7 +9,8 @@
 
 ---
 
-<h3 align="center">🚀 Current Focus</h3>
+
+<h3 align="center">🚀 Current Focus</h3> 🚀
 
 <p align="center">
   🛻 <strong>Truck Platooning</strong><br>
@@ -24,9 +25,11 @@
   Focused on stable cornering and obstacle avoidance
 </p>
 
+
 ---
 
-<h3 align="center">🧰 Tech Stack</h3>
+
+<h3 align="center">🧰 Tech Stack</h3> 🧰
 
 <p align="center"><b>Languages & Frameworks</b></p>
 
@@ -56,9 +59,11 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
+
 ---
 
-<h3 align="center">🎯 Goals</h3>
+
+<h3 align="center">🎯 Goals</h3> 🎯
 
 <p align="center">
   🚀 Build hands-on experience in autonomous vehicle systems<br>
@@ -66,9 +71,11 @@
   🤝 Grow by sharing, collaborating, and staying curious
 </p>
 
+
 ---
 
-<h3 align="center">✉️ Contact</h3>
+
+<h3 align="center">✉️ Contact</h3> ✉️
 
 <p align="center">
   <a href="mailto:tjgus4470@kookmin.ac.kr">
