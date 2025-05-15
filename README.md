@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18,14,15&height=200&section=header&text=SeoHyunK&fontSize=60&fontColor=000000&stroke=D7B5FF&strokeWidth=1)
 
 
-<h3 align="center">Hi, I'm SeoHyun 👋</h3>
+<h3 align="center">Hi, I'm SeoHyun Kim 👋</h3>
 <p align="center">🚘 Autonomous Driving · 🎓 Engineering Student · 🧠 Control & Perception</p>
 
 ---
