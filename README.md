@@ -9,8 +9,7 @@
 
 ---
 
-
-<h3 align="center">🚀 Current Focus</h3> 🚀
+<h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
   🛻 <strong>Truck Platooning</strong><br>
@@ -25,11 +24,9 @@
   Focused on stable cornering and obstacle avoidance
 </p>
 
-
 ---
 
-
-<h3 align="center">🧰 Tech Stack</h3> 🧰
+<h3 align="center">🧰 Tech Stack 🧰</h3>
 
 <p align="center"><b>Languages & Frameworks</b></p>
 
@@ -38,6 +35,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-F37820?style=for-the-badge&logo=Mathworks&logoColor=white"/>
@@ -59,11 +58,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
-
 ---
 
-
-<h3 align="center">🎯 Goals</h3> 🎯
+<h3 align="center">🎯 Goals 🎯</h3>
 
 <p align="center">
   🚀 Build hands-on experience in autonomous vehicle systems<br>
@@ -71,17 +68,14 @@
   🤝 Grow by sharing, collaborating, and staying curious
 </p>
 
-
 ---
 
-
-<h3 align="center">✉️ Contact</h3> ✉️
+<h3 align="center">✉️ Contact ✉️</h3>
 
 <p align="center">
-  <a href="mailto:tjgus4470@kookmin.ac.kr">
+  <a href="mailto:your@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center"><i>"Keep learning. Keep building."</i></p>
-  
