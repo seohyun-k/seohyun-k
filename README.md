@@ -8,7 +8,7 @@
 <p align="center">🚘 Autonomous Driving · 🎓 Engineering Student · 🧠 Control & Perception</p>
 
 ---
-
+</h2>
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
@@ -73,7 +73,7 @@
 <h3 align="center">✉️ Contact ✉️</h3>
 
 <p align="center">
-  <a href="mailto:your@gmail.com">
+  <a href="mailto:tjgus4470@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
