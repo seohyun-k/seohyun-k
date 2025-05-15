@@ -9,9 +9,6 @@
 
 ---
 
-
-
-
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
