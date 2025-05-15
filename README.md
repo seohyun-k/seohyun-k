@@ -12,7 +12,7 @@
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="100" align="right"/>
+  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="150" align="right"/>
   🛻 <strong>Truck Platooning</strong><br>
   ROS2 + CARLA simulator<br>
   Sensor fusion with <strong>LiDAR & Camera</strong><br>
