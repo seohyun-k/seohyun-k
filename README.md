@@ -74,7 +74,7 @@
 <h3 align="center">✉️ Contact ✉️</h3>
 <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/2.png" height="150" align="left"/>
 
-<p align="center">
+<p align="left">
   <a href="mailto:tjgus4470@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
