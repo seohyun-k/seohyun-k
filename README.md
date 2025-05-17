@@ -12,17 +12,16 @@
 <h3 align="center">🚀 Current Focus 🚀</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/1.png" height="150" align="right"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛻 <strong>Truck Platooning</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS2 + CARLA simulator<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sensor fusion with <strong>LiDAR & Camera</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Real-time distance keeping, steering control, and UI visualization
+🛻 <strong>Truck Platooning</strong><br>
+ROS2 + CARLA simulator<br>
+Sensor fusion with <strong>LiDAR & Camera</strong><br>
+Real-time distance keeping, steering control, and UI visualization
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏎️ <strong>AWS DeepRacer</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Designing custom reward functions for complex tracks<br>
-  Focused on stable cornering and obstacle avoidance
+🏎️ <strong>AWS DeepRacer</strong><br>
+Designing custom reward functions for complex tracks<br>
+Focused on stable cornering and obstacle avoidance
 </p>
 
 ---
@@ -64,20 +63,20 @@
 <h3 align="center">🎯 Goals 🎯</h3>
 
 <p align="center">
-  🚀 Build hands-on experience in autonomous vehicle systems<br>
-  👨‍💻 Learn by solving real-world robotics problems<br>
-  🤝 Grow by sharing, collaborating, and staying curious
+🚀 Build hands-on experience in autonomous vehicle systems<br>
+👨‍💻 Learn by solving real-world robotics problems<br>
+🤝 Grow by sharing, collaborating, and staying curious
 </p>
 
 ---
 
 <h3 align="center">✉️ Contact ✉️</h3>
-<img src="https://raw.githubusercontent.com/seohyun-k/seohyun-k/main/3.png" height="300" align="left"/>
 
-<p align="left">
+<p align="center">
   <a href="mailto:tjgus4470@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/your_instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -85,7 +84,8 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=fade&color=gradient&customColorList=18,14,15&height=100&section=header"/>
 </p>
 
-</p align="center"><i>"Keep learning. Keep building."</i></p>
+<p align="center"><i>"Keep learning. Keep building."</i></p>
