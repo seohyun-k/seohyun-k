@@ -82,5 +82,4 @@ Focused on stable cornering and obstacle avoidance
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,14,15&height=120&section=footer"/>
 </p>
 
-<p align="center"><i>"Keep learning. Keep building."</i></p>
 
