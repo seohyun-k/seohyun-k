@@ -55,15 +55,6 @@ Focused on stable cornering and obstacle avoidance
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🎯 Goals 🎯</h3>
-
-<p align="center">
-🚀 Build hands-on experience in autonomous vehicle systems<br>
-👨‍💻 Learn by solving real-world robotics problems<br>
-🤝 Grow by sharing, collaborating, and staying curious
-</p>
 
 ---
 
