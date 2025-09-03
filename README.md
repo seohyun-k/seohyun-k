@@ -34,7 +34,7 @@ Focused on Phantom & Backdoor Attacks
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https.img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-F37820?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
