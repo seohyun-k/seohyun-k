@@ -45,13 +45,11 @@ Focused on Phantom & Backdoor Attacks
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-<p align="center"><b>Avionics & NAS</b></p>
+<p align="center"><b>Avionics</b></p>
 <p align="center">
-  <img src="https.img.shields.io/badge/PX4-000000?style=for-the-badge&logo=PX4-Autopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGroundControl-3D454D?style=for-the-badge&logo=QGroundControl&logoColor=white"/>
   <img src="https://img.shields.io/badge/X--Plane-0072BC?style=for-the-badge&logo=x-plane&logoColor=white"/>
   <img src="https://img.shields.io/badge/Little_Navmap-008080?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Synology-2F2F2F?style=for-the-badge&logo=synology&logoColor=white"/>
 </p>
 
 <p align="center"><b>Tools</b></p>
