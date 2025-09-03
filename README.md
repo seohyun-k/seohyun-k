@@ -22,6 +22,12 @@ Adversarial Security in Autonomous Perception<br>
 Focused on Phantom & Backdoor Attacks
 </p>
 
+<p align="center">
+🚁 <strong>UAM Cyber Security</strong><br>
+Threat Intelligence Data Analysis<br>
+Vulnerability Assessment & Attack Vector Modeling
+</p>
+
 ---
 
 <h3 align="center">🧰 Tech Stack 🧰</h3>
